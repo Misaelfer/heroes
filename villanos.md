@@ -3,3 +3,4 @@
 1. El bromas
 2. Lex Lutor
 3. El acertijo
+4. Doomsday
